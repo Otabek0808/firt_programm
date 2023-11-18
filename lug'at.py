@@ -1,6 +1,5 @@
 """ Lug'at yaratuvchi dastur """
 a = []
-
 while True:
 	b = input('So\'z yoz>> ' )
 	if b == 'exit':
